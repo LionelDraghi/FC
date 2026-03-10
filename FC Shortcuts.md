@@ -57,7 +57,7 @@ When choosing a shortcut, functions already assigned to that key are shown in th
 
 # References
 
-[Deltahedra video](https://www.youtube.com/watch?v=LKq7hgbu7ks&t=300s) is realy a good investment, because he is not only explaining shortcuts, but also how to use macros, how to get rid of that default interface, far too complex, which scares off all new users, and how to easily setup a really nice and simple UI.  
+[Deltahedra video](https://www.youtube.com/watch?v=LKq7hgbu7ks&t=300s) is really a good investment, because he is not only explaining shortcuts, but also how to use macros, how to get rid of that default interface, far too complex, which scares off all new users, and how to easily setup a really nice and simple UI.  
 All those info are available in other ressources, but this one is the most effective I found so far (13" first minutes).
 
 
